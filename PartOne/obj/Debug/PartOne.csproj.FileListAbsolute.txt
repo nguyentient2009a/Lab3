@@ -1,0 +1,6 @@
+C:\Users\admin\RiderProjects\Raw\Lab3\PartOne\bin\Debug\PartOne.exe
+C:\Users\admin\RiderProjects\Raw\Lab3\PartOne\bin\Debug\PartOne.pdb
+C:\Users\admin\RiderProjects\Raw\Lab3\PartOne\obj\Debug\PartOne.csprojAssemblyReference.cache
+C:\Users\admin\RiderProjects\Raw\Lab3\PartOne\obj\Debug\PartOne.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\Raw\Lab3\PartOne\obj\Debug\PartOne.exe
+C:\Users\admin\RiderProjects\Raw\Lab3\PartOne\obj\Debug\PartOne.pdb
